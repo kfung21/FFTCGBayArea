@@ -1,0 +1,10 @@
+
+https://www.facebook.com/groups/FFTCGSF/
+Links: https://www.facebook.com/legacy/notes/641632642707443/
+files: https://www.facebook.com/groups/FFTCGSF/files/files
+
+calendar public
+https://calendar.google.com/calendar/u/0/embed?src=fftcgbayarea@gmail.com&ctz=America/Los_Angeles&pli=1
+
+calendar embed
+<iframe src="https://calendar.google.com/calendar/embed?src=fftcgbayarea%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
