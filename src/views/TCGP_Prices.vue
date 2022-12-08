@@ -2,7 +2,7 @@
   <NavBar></NavBar>
   
   <v-text-field label="Card Name" typ="text" v-model="cardFind" @change="setCardLookup"></v-text-field>
-  <a href="https://drive.google.com/file/d/1JEDb0trl-0A60GBWayHQY21EgKbrLE89/view?usp=sharing">Get All Cards in Excel</a>
+  <v-btn href="https://drive.google.com/file/d/1JEDb0trl-0A60GBWayHQY21EgKbrLE89/view?usp=sharing" style="float: right">Get All Cards in Excel</v-btn>
   
   <li v-for="card in getCards" :key="card.set" style="display:flex; gap: 10px">
     <a :href=card.Url_Details>{{card.Name.replaceAll("\"","")}}</a>

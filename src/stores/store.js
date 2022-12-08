@@ -10,7 +10,12 @@ export const FFTCGCardPrices = defineStore('counter', {
     state: () => ({
         count: 0,
         cardPrices: json,
-        cardLookup: ''
+        cardLookup: '',
+        menu: [
+            { icon: "home", title: "Home" },
+            { icon: "info", title: "Prices" },
+            { icon: "warning", title: "Calendar" }
+          ]
         // CP2: testCards
       }),
 

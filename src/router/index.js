@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import TCGP_Prices from '../views/TCGP_Prices.vue'
 import Calendar from '../views/Calendar.vue'
+import Blog from '../views/Blog.vue'
 import About from '../views/About.vue'
 import Home from '../views/Home.vue'
 
@@ -19,6 +20,11 @@ const routes = [
     path: '/calendar',
     name: 'Calendar',
     component: Calendar
+  },
+  {
+    path: '/.vuepress',
+    name: 'Blog',
+    component: Blog
   },
   {
     path: '/about',

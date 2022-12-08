@@ -71,13 +71,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-a36cd214f3c5.js"></script>
   
 
-  <title>vuepress-theme-hope/README.md at main · vuepress-theme-hope/vuepress-theme-hope</title>
+  <title>vuepress-theme-hope/Article.vue at main · vuepress-theme-hope/vuepress-theme-hope</title>
 
 
 
     
 
-  <meta name="request-id" content="F07C:4557:1BEB258:1DD0B53:63913EFF" data-turbo-transient="true" /><meta name="html-safe-nonce" content="81248f4cb17a7b5aa6aed19763c74db38aa7d43c2a48342c1ce13a362d646ad4" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVwcmVzcy10aGVtZS1ob3BlL3Z1ZXByZXNzLXRoZW1lLWhvcGUvdHJlZS9tYWluL2RlbW8vYmxvZzIvc3JjIiwicmVxdWVzdF9pZCI6IkYwN0M6NDU1NzoxQkVCMjU4OjFERDBCNTM6NjM5MTNFRkYiLCJ2aXNpdG9yX2lkIjoiNzM0NDMxMzkzODAzNTQzNjg0OSIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="a2535072d55b86ab07b215bda5cf74308e84d19658daa000811916e72c3dbac6" data-turbo-transient="true" />
+  <meta name="request-id" content="F07C:4557:1BE7AAB:1DCCEEF:63913EC7" data-turbo-transient="true" /><meta name="html-safe-nonce" content="81248f4cb17a7b5aa6aed19763c74db38aa7d43c2a48342c1ce13a362d646ad4" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVwcmVzcy10aGVtZS1ob3BlL3Z1ZXByZXNzLXRoZW1lLWhvcGUvdHJlZS9tYWluL2RlbW8vYmxvZzIvc3JjLy52dWVwcmVzcy9sYXlvdXRzIiwicmVxdWVzdF9pZCI6IkYwN0M6NDU1NzoxQkU3QUFCOjFEQ0NFRUY6NjM5MTNFQzciLCJ2aXNpdG9yX2lkIjoiNzM0NDMxMzkzODAzNTQzNjg0OSIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="79498436227429f147af03f08053a3c9a4ef4ab4f888aac69be31fe94ca349a9" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:215522403" data-turbo-transient>
@@ -116,11 +116,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/215522403/0e2c3900-b0e5-11ea-9f5a-d051e3840f35" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="vuepress-theme-hope/README.md at main · vuepress-theme-hope/vuepress-theme-hope" /><meta name="twitter:description" content="A vuepress theme with tons of features✨. Contribute to vuepress-theme-hope/vuepress-theme-hope development by creating an account on GitHub." />
-      <meta property="og:image" content="https://repository-images.githubusercontent.com/215522403/0e2c3900-b0e5-11ea-9f5a-d051e3840f35" /><meta property="og:image:alt" content="A vuepress theme with tons of features✨. Contribute to vuepress-theme-hope/vuepress-theme-hope development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="vuepress-theme-hope/README.md at main · vuepress-theme-hope/vuepress-theme-hope" /><meta property="og:url" content="https://github.com/vuepress-theme-hope/vuepress-theme-hope" /><meta property="og:description" content="A vuepress theme with tons of features✨. Contribute to vuepress-theme-hope/vuepress-theme-hope development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/215522403/0e2c3900-b0e5-11ea-9f5a-d051e3840f35" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="vuepress-theme-hope/Article.vue at main · vuepress-theme-hope/vuepress-theme-hope" /><meta name="twitter:description" content="A vuepress theme with tons of features✨. Contribute to vuepress-theme-hope/vuepress-theme-hope development by creating an account on GitHub." />
+      <meta property="og:image" content="https://repository-images.githubusercontent.com/215522403/0e2c3900-b0e5-11ea-9f5a-d051e3840f35" /><meta property="og:image:alt" content="A vuepress theme with tons of features✨. Contribute to vuepress-theme-hope/vuepress-theme-hope development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="vuepress-theme-hope/Article.vue at main · vuepress-theme-hope/vuepress-theme-hope" /><meta property="og:url" content="https://github.com/vuepress-theme-hope/vuepress-theme-hope" /><meta property="og:description" content="A vuepress theme with tons of features✨. Contribute to vuepress-theme-hope/vuepress-theme-hope development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/23279021/ws?session=eyJ2IjoiVjMiLCJ1IjoyMzI3OTAyMSwicyI6MTAwODcyMjgzNSwiYyI6MzM2NTQ1MDAxNiwidCI6MTY3MDQ2MzIzN30=--d7742f8fc379e1d3f1c7ef9678ca169775b6009721fbb72cf43a661b0fa959eb" data-refresh-url="/_alive" data-session-id="708f51ae3e951463915da64e54ece07753b308c4fbc884fc76704918e2fb29a3">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/23279021/ws?session=eyJ2IjoiVjMiLCJ1IjoyMzI3OTAyMSwicyI6MTAwODcyMjgzNSwiYyI6MTg0NzI4ODMyMSwidCI6MTY3MDQ2MzE3N30=--fc12210272250ed80410f9f00e280902aca2953cc8e632b4521e912eb761eccc" data-refresh-url="/_alive" data-session-id="708f51ae3e951463915da64e54ece07753b308c4fbc884fc76704918e2fb29a3">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -150,7 +150,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -243,7 +243,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="rVqOZzJsD92V9ifCok3kW-poeLkFVN276s9RHcyjwpzLHI2FkOV-ieXa0xYu6C7Ed_GXTRzKdBYwhqaXirYejg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="SpaF2m8OVcIiLxSfxPcXT5_K7cj_Hb8mVJ6MVJ2BEpgs0IY4zYckllID4EtIUt3QAlMCPOaDFouO13ve25TOig" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -442,7 +442,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;kfung21&quot;,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="e82261cd62b76ad4600bdd59e15dddf53a7a9587c8ec6496e43942c9ed644f12" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;kfung21&quot;,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="9216093903e89193bb99f3c01c2b36d51ccf38236df4300c7d59febe842e9354" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -450,7 +450,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/23279021?s=40&amp;v=4" width="20" height="20" alt="@kfung21" />
       kfung21
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2-UW-_FV8dB5K6Z19TqVsWeI8q66VR_Nbyc2h7tZDKFFrqcgOnERn6GOAYQdJd62u0WG7mNKqRUjwGwu114zkQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MUudBYgEA7aakoWgU0MQnxewpSKXGkn3gJ--l9jCGzCvACzeQyDj-UI3IlG7XFuYy33RYk4F_y_MeOQ-tMUkAA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -485,7 +485,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjMyNzkwMjEiLCJ0IjoxNjcwNDYzMjM3fQ==--dbb7cad1562be3252cc095676a164dd0cc6a0e7bf11308bcd98dd3ddfa67cbb7" data-indicator-mode="global" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjMyNzkwMjEiLCJ0IjoxNjcwNDYzMTc3fQ==--0622e06ca257fd9d3015f26a11c7be7b7b5e9a05950744257749baa3be0c67b7" data-indicator-mode="global" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -643,7 +643,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md
+      return-to=/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue
       user-id="23279021"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1616,7 +1616,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="320c8b2ad6c766fc8476fa232e21e03abeb00bcfd4aa2914517f0b88ea121507" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="8ecd450f2b3761a36155fc37a57b52d8087fd170b35779c49f93e70b36e9b2b7" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1668,7 +1668,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6eIsn5KgbgY2mhRKcaZB4agdfPl3lv5nXs7RXPkjtpffByuFFGIGG83phjhUH8sfkyeXS8Oip8WLf415BZxFTw" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Rezpx2ePDKCjYInzb6MFBOdtfmt87yO_Ghsa3l7uCFZzCe7d4U1kvVgTG4FKGo_63FeV2cjbeh3Pqkb7olH7jg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="215522403">
 
@@ -1796,7 +1796,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FuPqLdSlTzqFV3KdYQYEiBJghUKNbSNPsAeLpIbAc6IgBu03UmcnJ34k4O9Ev452KVpu8DlZeu1ltteBen-Aeg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WDyjX4ZqmhpGL3vtQ7aTPEtXbB_1Gu4dV5uEU1f5AaVu2aRFAKjyB71c6Z9mDxnCcG2HrUEut7-CKth2q0byfQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="215522403">
 
@@ -1939,7 +1939,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/vuepress-theme-hope/vuepress-theme-hope/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="75cb929223480ff8740e6bddfb950631114a18253edc84ed0cf2e17ef3b56c7e" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of vuepress-theme-hope/vuepress-theme-hope" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/vuepress-theme-hope/vuepress-theme-hope/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="dd09c513544f7ee79c8d41276ed9cdbd1eb93eed08e5ded315037b001acb3e5b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of vuepress-theme-hope/vuepress-theme-hope" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="313" data-view-component="true" class="Counter">313</span>
@@ -1957,13 +1957,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-53da6d">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-f24fe9">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-53da6d"
+        id="filter-menu-f24fe9"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2005,10 +2005,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MicAojKEdcahSVtNYXAQDH670vwsZg71EQLGdktRJm8Okz2nRCKwhMKZgKYMPYQy7fON8xLd9ymFE6OMMQ1kYw" autocomplete="off" />
-          <input type="hidden" value="K41GVCofsxJF-_Z7pAJFv2cTD7hz_dIuwNbhKFUAVnUXOXtRXLl2UCYrLZDJT9GB9FtQt01GK_JUx4TSL1wUeQ" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dBpk9mMKztlLNCKDDW06tCyvAFyTPO8Z55fDw7svAapIrlnzFawLmyjk-WhgIK6Kv-dfU62HFsVzhqY5wXNDpg" autocomplete="off" />
+          <input type="hidden" value="dTE7Nd8v_wvFmFBnrqIUF0X-5gvx_ft1O7_c3ECkEGJJhQYwqYk6SaZIi4zD74Ap1ra5BM9GAqmvrrkmOvhSbg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="d0acbd5fe0dc7aacb7ce51701b2652e1adeea6f3ad77f4b8b80a9946536adc65" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (878)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="c5e016d72972fdae02398ef1b1a197b30644d63e718af0e48f739fbfe04d2c84" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (878)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2026,13 +2026,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9378ba">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-52b451">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9378ba"
+        id="filter-menu-52b451"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2053,9 +2053,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kEEe9yYjUEyVI9Q83aG41MgAwRBqWbQEdCcZcoGybmVSIyAO6dCX5l6jIN-xzD_5i6kPsAmFtbR_rZjJBKWpCg" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3pkJWQ0wejqZ3Hqf1EKlEO31t4xwuia-t1dq-z0Pebwc-zegwsO9kFJcjny4LyI9rlx5LBNmJw683etAuBi-0w" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="ddbaabfd56c275789ea4421cf5b833877125563ecdd96791c21df859160b7c03" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (878)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="7a60757b74b930da3936c17cab65b6ed61b9f0b638b38f5b0411f96fb263b75c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (878)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2073,13 +2073,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9378ba">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-52b451">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9378ba"
+        id="filter-menu-52b451"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2282,7 +2282,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/vuepress-theme-hope/vuepress-theme-hope/blob/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/vuepress-theme-hope/vuepress-theme-hope/blob/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/.vuepress/layouts/Article.vue">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2290,7 +2290,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="6dd85a4b3a1cb8c3e0c2d82b14403c19d50b8c144d6d4e0b5605dec7a438d4e9">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="2c68d294940fbc05b3f1eb28989b5309bc23a06812405b3719d47f38c459a9ad">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2371,7 +2371,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/{{ urlEncodedRefName }}/demo/blog2/src/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/{{ urlEncodedRefName }}/demo/blog2/src/.vuepress/layouts/Article.vue" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2413,7 +2413,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/{{ urlEncodedRefName }}/demo/blog2/src/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/{{ urlEncodedRefName }}/demo/blog2/src/.vuepress/layouts/Article.vue" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2474,7 +2474,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope"><span>vuepress-theme-hope</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo"><span>demo</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo/blog2"><span>blog2</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo/blog2/src"><span>src</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope"><span>vuepress-theme-hope</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo"><span>demo</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo/blog2"><span>blog2</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo/blog2/src"><span>src</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo/blog2/src/.vuepress"><span>.vuepress</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/vuepress-theme-hope/vuepress-theme-hope/tree/main/demo/blog2/src/.vuepress/layouts"><span>layouts</span></a></span><span class="separator">/</span><strong class="final-path">Article.vue</strong>
   </h2>
     <a href="/vuepress-theme-hope/vuepress-theme-hope/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2485,7 +2485,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="ca79c95c8af58e0bcc07d107d681806077b9cec8308644acd69ffd0e3ed4a907" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/vuepress-theme-hope/vuepress-theme-hope/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="e63dff71e0f1022029f78e7227164d4612fae8b8a883ac6f932f52df5d4a5b69" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/vuepress-theme-hope/vuepress-theme-hope/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2497,13 +2497,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="demo/blog2/src/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="demo/blog2/src/.vuepress/layouts/Article.vue" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/.vuepress/layouts/Article.vue" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2535,7 +2535,7 @@
     <include-fragment src="/vuepress-theme-hope/vuepress-theme-hope/spoofed_commit_check/1dedcf385ff36099eaec89ee9d4a5bbf087a715f" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/vuepress-theme-hope/vuepress-theme-hope/contributors/main/demo/blog2/src/README.md" class="commit-loader">
+  <include-fragment src="/vuepress-theme-hope/vuepress-theme-hope/contributors/main/demo/blog2/src/.vuepress/layouts/Article.vue" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2558,72 +2558,34 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}"
-  data-menu-hydro-click-hmac="15c8edc4190af9a0179c78d8e82aa44d62af352530136f13222c316c1472569e"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="e723c70c79827f8e7a4df983d8f18fb26e19652e2bc80cf9778614b8d5601c83" href="#how-to-use">How to use</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="e723c70c79827f8e7a4df983d8f18fb26e19652e2bc80cf9778614b8d5601c83" href="#install">Install</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="e723c70c79827f8e7a4df983d8f18fb26e19652e2bc80cf9778614b8d5601c83" href="#usage">Usage</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      35 lines (28 sloc)
+      17 lines (15 sloc)
       <span class="file-info-divider"></span>
-    526 Bytes
+    449 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md?plain=1" data-permalink-href="/vuepress-theme-hope/vuepress-theme-hope/blob/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md" data-permalink-href="/vuepress-theme-hope/vuepress-theme-hope/blob/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/vuepress-theme-hope/vuepress-theme-hope/raw/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/README.md" href="/vuepress-theme-hope/vuepress-theme-hope/raw/main/demo/blog2/src/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/vuepress-theme-hope/vuepress-theme-hope/blame/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/README.md" href="/vuepress-theme-hope/vuepress-theme-hope/blame/main/demo/blog2/src/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/vuepress-theme-hope/vuepress-theme-hope/raw/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/.vuepress/layouts/Article.vue" href="/vuepress-theme-hope/vuepress-theme-hope/raw/main/demo/blog2/src/.vuepress/layouts/Article.vue" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/vuepress-theme-hope/vuepress-theme-hope/blame/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/.vuepress/layouts/Article.vue" href="/vuepress-theme-hope/vuepress-theme-hope/blame/main/demo/blog2/src/.vuepress/layouts/Article.vue" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/edit/main/demo/blog2/src/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l26Q4yozozQI00Y1M1xlo8QYq4RIwjgv9sUobSgrYE0HLGkdCQ7rJcDMrv5u-7X1B7qFN57vvPil5e7-yaP3cQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/edit/main/demo/blog2/src/.vuepress/layouts/Article.vue" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TFSdqrAaC4OCDY_7ZbY_XpttdhkH6O8TnsYfgoQ2psc1PBE6TO8YY7X9N1VJj08N130p5HhoeDcxNRsHi0aj_A" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2633,7 +2595,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/edit/main/demo/blog2/src/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gwOxqXsSLexy_J7n6CsUHBdBDuLJ1n_0p8278UDfGfMTQUhXWC9l_brjdiy1jMRK1OMgUR_7-yP07X1ioVeOzw" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/edit/main/demo/blog2/src/.vuepress/layouts/Article.vue" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j1HtHCAjGovAD1-fX00iJB4Fq-A3b6_9jyopTaPSWoD2OWGM3NYJa_f_5zFzdFJ3UhX0HUjvONkg2S3IrKJfuw" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2652,10 +2614,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/vuepress-theme-hope/vuepress-theme-hope/raw/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/vuepress-theme-hope/vuepress-theme-hope/raw/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/.vuepress/layouts/Article.vue" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="6db3bef6fa44034dc581f0afe8b5de7cd4634a79571f9c6c0ece126565cf056a" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="cbf5cef743dc255df4078527843dc41150b555a43fe0462eb923406603e6d8ca" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2680,7 +2642,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/delete/main/demo/blog2/src/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z0jZguZFYg6rlA9F9KphejAOC7kCHqo5PY9lrArNWHwN4YD7NhO8nnsuqMelu5RGwXA8VsuTG-p6a4sntex0SA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/vuepress-theme-hope/vuepress-theme-hope/delete/main/demo/blog2/src/.vuepress/layouts/Article.vue" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XDDymZIJqjXh84nKzNRA1-qleMC3AXkyzikSNo1A0L1fV_1Q8Ym48iZxKKONnSyvwDDKMkmUeasUiHShWFKbJA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2693,7 +2655,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="possible actions"
           data-test-selector="small-screen-more-options"
@@ -2713,15 +2675,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/vuepress-theme-hope/vuepress-theme-hope/raw/main/demo/blog2/src/README.md">
+            <a class="dropdown-item" href="/vuepress-theme-hope/vuepress-theme-hope/raw/main/demo/blog2/src/.vuepress/layouts/Article.vue">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/vuepress-theme-hope/vuepress-theme-hope/raw/main/demo/blog2/src/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/vuepress-theme-hope/vuepress-theme-hope/raw/main/demo/blog2/src/.vuepress/layouts/Article.vue" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/README.md&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="6db3bef6fa44034dc581f0afe8b5de7cd4634a79571f9c6c0ece126565cf056a">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:215522403,&quot;originating_url&quot;:&quot;https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/demo/blog2/src/.vuepress/layouts/Article.vue&quot;,&quot;user_id&quot;:23279021}}" data-hydro-click-hmac="cbf5cef743dc255df4078527843dc41150b555a43fe0462eb923406603e6d8ca">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2744,20 +2706,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/vuepress-theme-hope/vuepress-theme-hope/blame/main/demo/blog2/src/README.md">
+              <a class="dropdown-item" href="/vuepress-theme-hope/vuepress-theme-hope/blame/main/demo/blog2/src/.vuepress/layouts/Article.vue">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/vuepress-theme-hope/vuepress-theme-hope/edit/main/demo/blog2/src/README.md">Edit file</a>
+                <a class="dropdown-item" href="/vuepress-theme-hope/vuepress-theme-hope/edit/main/demo/blog2/src/.vuepress/layouts/Article.vue">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:215522403,&quot;actor_id&quot;:23279021,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/vuepress-theme-hope/vuepress-theme-hope/delete/main/demo/blog2/src/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/vuepress-theme-hope/vuepress-theme-hope/delete/main/demo/blog2/src/.vuepress/layouts/Article.vue">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2765,82 +2727,139 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>home</th>
-  <th>title</th>
-  <th>heroImage</th>
-  <th>heroText</th>
-  <th>tagline</th>
-  <th>actions</th>
-  <th>footer</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div dir="auto">true</div></td>
-  <td><div dir="auto">Home</div></td>
-  <td><div dir="auto">/logo.svg</div></td>
-  <td><div dir="auto">vuepress-plugin-blog2</div></td>
-  <td><div dir="auto">Add blog support for VuePress2</div></td>
-  <td><div dir="auto"><table>
-  <tbody>
-  <tr>
-  <td><div dir="auto"><table>
-  <thead>
-  <tr>
-  <th>text</th>
-  <th>link</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div dir="auto">Docs</div></td>
-  <td><div dir="auto"><a href="https://vuepress-theme-hope.github.io/v2/blog/" rel="nofollow">https://vuepress-theme-hope.github.io/v2/blog/</a></div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  <td><div dir="auto">MIT Licensed | Copyright © 2021-present Mr.Hope</div></td>
-  </tr>
-  </tbody>
-</table>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-vue  gist-border-0">
 
-<h2 dir="auto"><a id="user-content-how-to-use" class="anchor" aria-hidden="true" href="#how-to-use"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>How to use</h2>
-<h3 dir="auto"><a id="user-content-install" class="anchor" aria-hidden="true" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Install</h3>
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="pnpm add -D vuepress-plugin-blog2@next"><pre>pnpm add -D vuepress-plugin-blog2@next</pre></div>
-<h3 dir="auto"><a id="user-content-usage" class="anchor" aria-hidden="true" href="#usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Usage</h3>
-<div class="highlight highlight-source-ts notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="// .vuepress/config.ts
-import { blogPlugin } from &quot;vuepress-plugin-blog2&quot;;
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
 
-export default {
-  plugins: [
-    blogPlugin({
-      // your options
-    }),
-  ],
-};"><pre><span class="pl-c">// .vuepress/config.ts</span>
-<span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-s1">blogPlugin</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"vuepress-plugin-blog2"</span><span class="pl-kos">;</span>
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
 
-<span class="pl-k">export</span> <span class="pl-k">default</span> <span class="pl-kos">{</span>
-  <span class="pl-c1">plugins</span>: <span class="pl-kos">[</span>
-    <span class="pl-en">blogPlugin</span><span class="pl-kos">(</span><span class="pl-kos">{</span>
-      <span class="pl-c">// your options</span>
-    <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">,</span>
-  <span class="pl-kos">]</span><span class="pl-kos">,</span>
-<span class="pl-kos">}</span><span class="pl-kos">;</span></pre></div>
-</article>
-  </div>
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Vue" data-tagsearch-path="demo/blog2/src/.vuepress/layouts/Article.vue">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">template</span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">ParentLayout</span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">template</span> #<span class="pl-e">page</span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">      &lt;<span class="pl-ent">main</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>page<span class="pl-pds">&quot;</span></span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">        &lt;<span class="pl-ent">ArticleList</span> :<span class="pl-e">items</span>=<span class="pl-s1"><span class="pl-pds">&quot;</span><span class="pl-smi">articles</span>.<span class="pl-smi">items</span><span class="pl-pds">&quot;</span></span> /&gt;</td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">      &lt;/<span class="pl-ent">main</span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">    &lt;/<span class="pl-ent">template</span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">  &lt;/<span class="pl-ent">ParentLayout</span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">template</span>&gt;</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">&lt;<span class="pl-ent">script</span> <span class="pl-e">setup</span> <span class="pl-e">lang</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>ts<span class="pl-pds">&quot;</span></span>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-k">import</span> { <span class="pl-smi">useBlogType</span> } <span class="pl-k">from</span> <span class="pl-s"><span class="pl-pds">&quot;</span>vuepress-plugin-blog2/client<span class="pl-pds">&quot;</span></span>;</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-k">import</span> <span class="pl-smi">ArticleList</span> <span class="pl-k">from</span> <span class="pl-s"><span class="pl-pds">&quot;</span>../components/ArticleList.vue<span class="pl-pds">&quot;</span></span>;</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-k">import</span> <span class="pl-smi">ParentLayout</span> <span class="pl-k">from</span> <span class="pl-s"><span class="pl-pds">&quot;</span>@vuepress/theme-default/layouts/Layout.vue<span class="pl-pds">&quot;</span></span>;</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> articles <span class="pl-k">=</span> <span class="pl-en">useBlogType</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>article<span class="pl-pds">&quot;</span></span>);</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">&lt;/<span class="pl-ent">script</span>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:220px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/vuepress-theme-hope/vuepress-theme-hope/blame/1dedcf385ff36099eaec89ee9d4a5bbf087a715f/demo/blog2/src/.vuepress/layouts/Article.vue">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/vuepress-theme-hope/vuepress-theme-hope/issues/new">Reference in new issue</a></li>
+          <li><a class="dropdown-item" id="js-new-discussion" role="menuitem" href="/vuepress-theme-hope/vuepress-theme-hope/discussions/new">Reference in new discussion</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
